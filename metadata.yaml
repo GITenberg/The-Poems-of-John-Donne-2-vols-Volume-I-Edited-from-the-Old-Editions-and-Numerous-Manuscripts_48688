@@ -1,0 +1,31 @@
+_repo: The-Poems-of-John-Donne-2-vols-Volume-I-Edited-from-the-Old-Editions-and-Numerous-Manuscripts_48688
+contributor:
+  creator:
+    editor:
+      agent_name: Grierson, Sir Herbert John Clifford
+      gutenberg_agent_id: '44922'
+      url: http://www.gutenberg.org/2009/agents/44922
+creator:
+  author:
+    agent_name: Donne, John
+    aliases:
+    - Done, John
+    - Donn, John
+    birthdate: 1572
+    deathdate: 1631
+    gutenberg_agent_id: '8886'
+    url: http://www.gutenberg.org/2009/agents/8886
+    wikipedia: http://en.wikipedia.org/wiki/John_donne
+description: ''
+gutenberg_issued: '2015-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Poems of John Donne [2 vols.] Volume I
+
+  Edited from the Old Editions and Numerous Manuscripts'
+url: http://www.gutenberg.org/ebooks/48688
