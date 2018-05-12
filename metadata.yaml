@@ -1,10 +1,14 @@
 _repo: The-Poems-of-John-Donne-2-vols-Volume-I-Edited-from-the-Old-Editions-and-Numerous-Manuscripts_48688
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Grierson, Sir Herbert John Clifford
       gutenberg_agent_id: '44922'
       url: http://www.gutenberg.org/2009/agents/44922
+covers:
+- cover_type: archival
+  image_path: 48688-h/images/cover.jpg
 creator:
   author:
     agent_name: Donne, John
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8886
     wikipedia: http://en.wikipedia.org/wiki/John_donne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48688#The-Poems-of-John-Donne-2-vols-Volume-I-Edited-from-the-Old-Editions-and-Numerous-Manuscripts
 gutenberg_issued: '2015-04-12'
 gutenberg_type: Text
 identifiers:
