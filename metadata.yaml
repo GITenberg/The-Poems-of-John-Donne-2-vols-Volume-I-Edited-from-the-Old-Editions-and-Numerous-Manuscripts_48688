@@ -31,6 +31,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Poems of John Donne [2 vols.] Volume I
 
   Edited from the Old Editions and Numerous Manuscripts'
